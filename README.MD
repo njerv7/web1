@@ -8,3 +8,5 @@ Contributors Guide
 ==================
 
 Just for the repo and send me a pull request
+
+Add more text
